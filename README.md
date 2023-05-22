@@ -19,7 +19,7 @@ pip install websocket-client
 Simply run the Python script from your command line:
 
 ```
-python btc_transaction_monitor.py
+python3 btc_transaction_monitor.py
 ```
 
 ## Output
