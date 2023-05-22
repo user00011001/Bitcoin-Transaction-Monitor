@@ -45,7 +45,3 @@ Outputs:
 ## Error Handling
 
 The script includes basic error handling for issues with the WebSocket connection. In case of connection errors or closures, corresponding messages will be displayed in the console.
-
-## Notes
-
-Please note that this script is for educational purposes only. Do not use this script for illegal activities. Also, the Blockchain API, like any other external service, can have downtime or changes in its interface that might require updating the script.
