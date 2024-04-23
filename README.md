@@ -41,7 +41,3 @@ Outputs:
  - Amount:  [Amount in BTC]
 ------------------------------
 ```
-
-## Error Handling
-
-The script includes basic error handling for issues with the WebSocket connection. In case of connection errors or closures, corresponding messages will be displayed in the console.
