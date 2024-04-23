@@ -1,6 +1,6 @@
 import json
 import datetime
-from websocket import WebSocketApp
+from websocket._app import WebSocketApp 
 
 class BitcoinTransactionListener:
     def __init__(self, url="wss://ws.blockchain.info/inv"):
